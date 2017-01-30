@@ -22,3 +22,7 @@
 	75% {background-color: red}
 	100% {background-color: blue}
 }
+
+body {
+	background-image: url(../images/pill.png);
+}
